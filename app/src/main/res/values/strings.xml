@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplitTheBill</string>
+    <string name ="txtTitle">Split The Bill</string>
+    <string name= "txtParty">Number in Party</string>
+    <string name= "txtBill">Total Bill</string>
+    <string name= "txtWaiter">Tip Percentage</string>
+    <string name= "txtFinal">Final Amount</string>
+    <string name= "description">Food Image</string>
+    <string name= "btnAmount">AMT PER PERSON</string>
+    <string-array name="txtTip">
+        <item>Poor</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+</resources>
